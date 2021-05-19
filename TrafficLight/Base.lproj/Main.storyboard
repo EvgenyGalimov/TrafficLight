@@ -66,9 +66,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="startButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="YKM-BU-sV7"/>
-                                    <action selector="tappedButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="KRi-O8-efq"/>
-                                    <action selector="tappedStartButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="lJE-jW-ZCb"/>
+                                    <action selector="tappedStartButton" destination="BYZ-38-t0r" eventType="touchUpInside" id="p3V-CY-IBi"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -87,7 +85,7 @@
                     <connections>
                         <outlet property="greenLight" destination="jT3-sW-3g3" id="hHS-2T-xR2"/>
                         <outlet property="redLight" destination="iO9-MV-zYn" id="VOD-Mi-3Qa"/>
-                        <outlet property="startButton" destination="L1K-7U-4Sf" id="4Zi-Be-W1t"/>
+                        <outlet property="startButton" destination="L1K-7U-4Sf" id="vG6-wf-pcu"/>
                         <outlet property="yellowLight" destination="rD8-MN-tAZ" id="mc8-3m-GRO"/>
                     </connections>
                 </viewController>
